@@ -7,25 +7,11 @@ This repository contains a Tableau dashboard that visualizes customer complaints
 
 ### Key Components
 
-1. **Total Complaints**: 
-   - Displays the total number of complaints received, broken down by service type.
-   - Example: 72,431 Total Complaints with 9,690 related to Bank Services (13.38%), 12,192 to Checking/Savings (16.83%), etc.
-
-2. **Complaints Per Year**:
-   - Shows the percentage of total complaints received each year from 2011 to 2020.
-   - Example: 27.02% of complaints in 2011, 6.00% in 2017, etc.
-
-3. **Year Trend**:
-   - Illustrates the number of complaints received each year, highlighting trends and changes over time.
-   - Example: Peak in 2014 with 1.93K complaints, followed by a decline to 0.56K in 2017.
-
-4. **Map**:
-   - Geographical distribution of complaints across different states in the USA.
-   - Example: 1,844 complaints from California, 855 from Texas, etc.
-
-5. **Request Type**:
-   - Breaks down complaints by the method through which they were received (Web, Referral, Phone, Postal mail, Fax, Email).
-   - Example: 39.28% of complaints were made via Web, 36.91% via Referral, etc.
+1. **Total Complaints**: Displays the total number of complaints received, broken down by service type.
+2. **Complaints Per Year**: Shows the percentage of total complaints received each year from 2011 to 2020.
+3. **Year Trend**: Illustrates the number of complaints received each year, highlighting trends and changes over time.
+4. **Map**: Geographical distribution of complaints across different states in the USA.
+5. **Request Type**: Breaks down complaints by the method through which they were received (Web, Referral, Phone, Postal mail, Fax, Email).
 
 ### Output
 <img src="https://github.com/pprachi15/introduction/assets/116032314/62f457ca-c230-4507-b841-057a6d65099c" width="60" height="60" />     <!-- Tableau  -->
