@@ -1,5 +1,5 @@
 
-# Customer Complaint Dashboard
+# Customer Complaint Analysis
 
 
 This repository contains a Tableau dashboard that visualizes customer complaints across various services such as Bank Services, Checking/Savings, Credit Card, Mortgage, and others. The data was cleaned and prepared using SQL, and the visualizations were created using Tableau. 
